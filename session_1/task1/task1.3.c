@@ -16,6 +16,12 @@
 
 int main(void) {
 
+    int number;
+
+        
+    number = printf("enter a number: ");
+    
+
 	// complete your code here
 
 	return 0;
