@@ -16,11 +16,13 @@ int main(void){
     int numbers[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 	int squares[10];    // max possible size
 	int count = 0;   // actual number of results
-	
+	int x;
 	//todo: convert the list comprehension
+	
 	
 	//print results
 	for(int i=0; i < count; i++){
+		
 	    printf("%d ", squares[i]);
 	}
  
